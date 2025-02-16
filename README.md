@@ -1,7 +1,7 @@
 ## Hi there 👋
  I am mohamadqawasmii/mohamadqawasmii  (https://github.com/mohamadqawasmii)
 
-Detail-oriented and results-driven professional with a Bachelor of Arts in Marketing from the American University of Madaba, equipped with diverse experience in sales, customer service, and marketing. Seeking to leverage my skills and expertise in a dynamic organization where I can contribute to achieving business objectives while continuing to grow professionally.
+Detail-oriented and results-driven professional with a Bachelor of Arts in Marketing from the American University of Madaba, equipped with diverse experience in sales, customer service, and marketing, as well as in Data preprocessing, Data visualizing, machine learning, and time series Seeking to leverage my skills and expertise in a dynamic organization where I can contribute to achieving business objectives while continuing to grow professionally.
 
  🔭 I’m currently working on data analysis and exploration ...
  🌱 I’m currently learning data science and machine learning...
