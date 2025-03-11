@@ -16,7 +16,7 @@ Detail-oriented and results-driven professional with a background in **Marketing
 **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow  
 **Machine Learning:** Supervised & Unsupervised Learning, Time Series Forecasting  
 **Data Visualization:** Matplotlib, Seaborn, Plotly  
-**Other Tools:** SQL, Git, Jupyter Notebook, Google Colab  
+**Other Tools:** Jupyter Notebook, Google Colab
 
 ---
 
