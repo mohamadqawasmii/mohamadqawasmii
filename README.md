@@ -20,18 +20,55 @@ Detail-oriented and results-driven professional with a background in **Marketing
 
 ---
 
-## 📌 Featured Projects  
-### 🔹 [Project 1: Time Series Forecasting for NYC Housing Market](https://github.com/mohamadqawasmii/project-link)  
-- Analyzed and predicted future home values using **ARIMA/SARIMA** models.  
-- Processed real estate time series data and identified long-term trends.  
+# 📊 Sales Prediction of Food Products  
 
-### 🔹 [Project 2: Diabetes Prediction Model](https://github.com/mohamadqawasmii/project-link)  
-- Built a **logistic regression model** to predict diabetes risk.  
-- Used **EDA and feature engineering** to improve model accuracy.  
+## 📌 Project Overview  
+This project aims to develop a **supervised machine learning model** to forecast sales of food products across multiple retail outlets. The goal is to use structured data analysis and predictive modeling techniques to generate accurate sales predictions.  
 
-### 🔹 [Project 3: Supermarket Sales Prediction](https://github.com/mohamadqawasmii/project-link)  
-- Developed a **Random Forest model** to forecast supermarket sales.  
-- Handled **missing data, feature scaling, and hyperparameter tuning**.  
+## 🛠️ Tech Stack  
+- Python  
+- Pandas  
+- Matplotlib & Seaborn  
+- Scikit-learn  
+
+## 📈 Key Tasks  
+✅ **Data Cleaning & Preprocessing:** Handled missing values, duplicates, and categorical inconsistencies using Pandas.  
+✅ **Exploratory Data Analysis (EDA):** Used Matplotlib and Seaborn to generate histograms, boxplots, count plots, and heatmaps.  
+✅ **Model Building & Evaluation:** Implemented **Linear Regression** and **Random Forest models** for sales forecasting.  
+
+# 📊 Classification Model for Consumer Insights  
+
+## 📌 Project Overview  
+This project focuses on building a **classification model** to predict consumer behavior based on structured datasets. The goal is to analyze data, apply feature engineering, and build models that provide business insights.  
+
+## 🛠️ Tech Stack  
+- Python  
+- Pandas & NumPy  
+- Scikit-learn  
+- Matplotlib & Seaborn  
+
+## 📈 Key Tasks  
+✅ **Data Preprocessing:** Feature engineering and transformation to prepare structured data for modeling.  
+✅ **Model Implementation:** Built **Logistic Regression, Decision Trees, and K-Nearest Neighbors (KNN)** classifiers.  
+✅ **Model Evaluation:** Used **confusion matrices, classification reports, and ROC curves** for assessment.  
+✅ **Feature Selection:** Applied **permutation importance** to determine the most influential features.  
+
+# 🚗💰 Car Insurance Fraud Detection  
+
+## 📌 Project Overview  
+This project focuses on detecting fraudulent insurance claims using **deep learning techniques**. The goal is to analyze structured insurance claim data and develop a model that can identify fraudulent cases effectively.  
+
+## 🛠️ Tech Stack  
+- Python  
+- TensorFlow/Keras  
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
+
+## 📈 Key Tasks  
+✅ **Data Cleaning & Feature Engineering:** Removed inconsistencies, handled missing values, and applied dimensionality reduction techniques.  
+✅ **Model Development:** Built and trained a **deep learning model using TensorFlow/Keras**.  
+✅ **Feature Analysis:** Identified top 10 influential features using **permutation importance**.  
+✅ **Data Visualization:** Created clear and actionable **explanatory visualizations** for fraud detection insights.  
 
 ---
 
